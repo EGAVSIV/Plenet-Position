@@ -1,8 +1,9 @@
-swisseph
+pyswisseph
 DateTime
 requests
 pandas
 matplotlib
+
 
 
 
