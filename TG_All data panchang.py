@@ -1,4 +1,4 @@
-import swisseph as swe
+import pyswisseph as swe
 import datetime
 import requests
 import matplotlib.pyplot as plt
@@ -185,3 +185,4 @@ if __name__ == "__main__":
     # Image
     generate_panchang_image(data, "panchang.png")
     send_telegram_image("panchang.png", caption="🌟 Panchang Snapshot")
+
