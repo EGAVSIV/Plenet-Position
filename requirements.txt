@@ -3,6 +3,12 @@ DateTime
 requests
 pandas
 matplotlib
+streamlit
+pillow
+swisseph
+pytz
+
+
 
 
 
