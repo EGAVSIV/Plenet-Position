@@ -34,7 +34,7 @@ PLANETS = [
 ("बृहस्पति", swe.JUPITER,"♃"),
 ("शुक्र", swe.VENUS,"♀"),
 ("शनि", swe.SATURN,"♄"),
-("राहु", swe.TRUE_NODE,"☊")
+("राहु", swe.MEAN_NODE,"☊")
 ]
 
 COL = {
